@@ -3,3 +3,5 @@ This project was part of the Translators undergraduate course in the CSE Departm
 
 To execute type:
 python3 Greekpp_compiler.py <File.gr>
+
+The file gpp_1.gr is an example of code in Greek++ language.
